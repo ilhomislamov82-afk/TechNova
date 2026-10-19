@@ -1,0 +1,6 @@
+{
+  "name": "TechNova — Technology News & AI Assistant",
+  "description": "Comprehensive technology portal featuring tech news, AI discoveries, verified daily device prices, and the TechI intelligence assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
